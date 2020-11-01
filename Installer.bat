@@ -1,3 +1,3 @@
 @echo off
 path=%~dp0
-call "%path%\fichiers_install\install.bat" >nul 2>&1
+call "%path%\fichiers_install\install.bat" >nul 2>&1 
