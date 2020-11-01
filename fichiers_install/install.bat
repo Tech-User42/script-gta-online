@@ -55,4 +55,4 @@ timeout 5
 exit
 :already
 echo Cette version du script est deja installe (%verinstreg%)
-goto :end
+goto :end 
