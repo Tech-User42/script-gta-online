@@ -36,4 +36,4 @@ goto :exit
 :exit
 echo Fermeture du programme de desinstalation.
 timeout 10
-exit
+exit 
