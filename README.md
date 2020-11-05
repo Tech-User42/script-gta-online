@@ -6,6 +6,10 @@ Ce script s'adresse aux joueurs de Grand theft auto V Online, qui en ont assez d
 # Comment installer ce script ?
 Pour cela rien de plus simple il suffit d'ouvrir le fichier "installer.bat" de suivre les instructions d'installations, et au moment de faire votre session solo , une fois que vous êtes dans une session publique vous devrez effectué cette manipulation ( de préférence en mode fenêtré "ALT + ENTRE" ) : Appuyer sur Windows + R et taper gta ENTRE attendre que le script se ferme retourner dans le jeu et voila une jolie session vide pour vous !
 
+# Je n'ai pas les droits administrateurs du pc comment puis-je utiliser ce script ?
+Pas de panique, une version portable du script sans demande de droits administrateurs existe.
+Il suffit de se rendre dans la branche "script-portable"
+
 # Comment mettre a jour le script ?
 Pour le moment je n'ai pas fais de verification de mise a jour du script cependant le script avant de s'installer verifie que vous n'avez pas deja installer cette version, pour le mettre a jour téléchargé la nouvelle version et lancez "installer.bat" il se chargera de tout mettre a jour
 
